@@ -22,6 +22,6 @@
 }
 
 
-#pragma mark - INVTestModuleViewProtocol
+#pragma mark - ___VARIABLE_viperModuleName___ViewProtocol
 
 @end
