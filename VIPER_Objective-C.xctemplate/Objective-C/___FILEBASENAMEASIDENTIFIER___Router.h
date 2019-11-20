@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  Роутер модуля ___VARIABLE_viperModuleName___
  */
-@interface ___VARIABLE_viperModuleName___Router : NSObject<___VARIABLE_viperModuleName___RouterProtocol>
+@interface ___VARIABLE_viperModuleName___Router : NSObject <___VARIABLE_viperModuleName___RouterProtocol>
 
 /**
  Конструктор
