@@ -13,7 +13,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- Презентационный слой модуля INVTestModule
+ Презентационный слой модуля ___VARIABLE_viperModuleName___
  */
 @interface ___VARIABLE_viperModuleName___Presenter : NSObject<___VARIABLE_viperModuleName___InteractorOutputProtocol, ___VARIABLE_viperModuleName___PresenterProtocol>
 

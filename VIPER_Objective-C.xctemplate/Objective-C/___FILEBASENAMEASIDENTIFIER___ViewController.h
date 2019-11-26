@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 
 /**
- Вью контроллер, представление модуля INVTestModule
+ Вью контроллер, представление модуля ___VARIABLE_viperModuleName___
  */
 @interface ___VARIABLE_viperModuleName___ViewController : UIViewController <___VARIABLE_viperModuleName___ViewProtocol>
 
